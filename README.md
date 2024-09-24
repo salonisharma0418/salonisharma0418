@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center"> Hi 👋, I'm Saloni Sharma </h1>
+<h1 align="center">A Passionate React.Js & Python Fullstack Developer </h1>
 
-<!--
-**salonisharma0418/salonisharma0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Unified Project**
+- 🌱 I’m currently learning **Django**
+- 📫 How to reach me: **siyasharma0418@gmail.com**
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
 
-Here are some ideas to get you started:
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+
+<>
