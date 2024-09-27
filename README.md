@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Saloni Sharma </h1>
 <h1 align="center">A Passionate React.Js & Python Fullstack Developer </h1>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonisharma0418&label=Profile%20views&color=0e75b6&style=flat" alt="salonisharma0418" /> </p>
 
 - 🔭 I’m currently working on **Unified Project**
